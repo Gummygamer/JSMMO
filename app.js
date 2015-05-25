@@ -10,7 +10,7 @@ var NConsole = new ConsoleLib();
 
 NConsole.writeLine("===================");
 NConsole.writeLine("Working Server.....");
-Global.setupServer("public", 443);
+Global.setupServer("public", 433);
 NConsole.writeLine("-------------------");
 
 
